@@ -9,5 +9,5 @@ plotly>=4.11.0
 #plotly-orca>=3.4.3
 psutil>=5.7.2
 
-talib >=0.4.19
+ta-lib >=0.4.19
 yfinance>=0.1.54
