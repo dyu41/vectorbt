@@ -6,7 +6,7 @@ numba~=0.51.2
 
 
 plotly>=4.11.0
-plotly-orca
+#plotly-orca
 psutil>=5.7.2
 
 ta-lib
